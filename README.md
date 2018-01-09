@@ -15,3 +15,5 @@ Here each module explain about spring component and there basic usage.
   http://localhost:8081/springmvc-with-annotation/
   
   To understad the spring mvc configuration in detail read reademe.md file inside springmvc-with-annotation module.
+  
+  Test
